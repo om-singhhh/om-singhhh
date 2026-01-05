@@ -31,7 +31,7 @@ const OmSingh = {
     }
 };
 ```
-------
+
 
 ## 🌐 Connect With Me:
 <div align="center">
@@ -47,7 +47,7 @@ const OmSingh = {
 
 </div>
 
-------
+
 
 ### 💫 **Quick Facts**
 
@@ -62,7 +62,7 @@ const OmSingh = {
 <br>
 <br>
 
--------
+
 
 # 💻 Tech Stack:
 <div align="center">
@@ -144,7 +144,7 @@ const OmSingh = {
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 </div>
  
-  ----------
+  
   
   # 📊 GitHub Stats:
  
@@ -161,7 +161,7 @@ const OmSingh = {
 
 </div>
 
---------
+
 
 
 ## 🏆 GitHub Trophies
@@ -173,7 +173,7 @@ const OmSingh = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
--------
+
 
 ### 🔝 Top Contributed Repo
 <div align="center">
@@ -181,7 +181,7 @@ const OmSingh = {
 ![](https://github-contributor-stats.vercel.app/api?username=om-singhhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
-------
+
 
 
 ## 💰 You can help me by Donating
@@ -191,9 +191,11 @@ const OmSingh = {
 
 </div>
 
-
+<div align="center">
 
 ### **🌟 Show some ❤️ by starring repositories! 🌟**
+
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=344966&fontSize=0&fontAlignY=41&fontColor=E6EFE9&descAlignY=59&descAlign=50&section=footer"/>
@@ -202,7 +204,7 @@ const OmSingh = {
 
 </div>
 
------
+
 <!-- Thanks all others for template to make this readme more professional -->
   
 
