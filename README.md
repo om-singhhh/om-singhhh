@@ -62,7 +62,7 @@ const OmSingh = {
 <br>
 <br>
 
-
+<!--
 
 # 💻 Tech Stack:
 <div align="center">
@@ -143,7 +143,69 @@ const OmSingh = {
   ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 </div>
- 
+-->
+
+# 💻 Tech Stack:
+
+<div align="center">
+
+<table align="center" width="100%" style="max-width: 950px; text-align: center;">
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">🌐 Web Development</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TypeScript.svg"
+ height="50" title="TypeScript" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/React-Dark.svg" height="50" title="React.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NextJS-Light.svg" height="50" title="Next.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" height="50" title="Tailwind CSS" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
+</tr>
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">🧠 AI & Gen AI</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/GCP-Light.svg" height="50" title="Google Cloud" /></td>
+<td><img src="https://meta-q.cdn.bubble.io/f1740327389123x713161792968389100/n8n%20plugin.png" height="50" width="50" title="n8n Automation" />
+</td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TensorFlow-Dark.svg" height="50" title="TensorFlow" /></td>
+<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORErObBxZDkalSzwN8UaUF68IUdptQoN6Hw&s" height="50" width="50" title="Prompt Engineering" />
+</td>
+</tr>
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">⚙️ Backend & Cloud</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/NodeJS-Dark.svg" height="50" title="Node.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/ExpressJS-Light.svg" height="50" title="Express.js" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Firebase-Light.svg" height="50" title="Firebase" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Light.svg" height="50" title="Vercel" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" title="Postman" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" title="FastAPI" /></td>
+</tr>
+
+<tr>
+<th colspan="6" style="padding: 12px; font-size: 20px;">🗄️ Databases & Core Languages</th>
+</tr>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="50" title="MongoDB" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Java-Light.svg" height="50" title="Java" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+ height="50" title="C" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" title="Git" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
+</tr>
+
+</table> 
+
+</div>
   
   
   # 📊 GitHub Stats:
